@@ -45,6 +45,8 @@ The sleekest looking WebUI for qBittorrent made with Vue.js!
 
 ## Installation
 
+https://transfer.sh/get/1V6CseQ/qBittorrent-%20How%20to%20Setup%20with%20Vuetorrent%20UI%20on%20Unraid.mp4
+
 ### Manual
 
 - Visit the [Releases](https://github.com/WDaan/VueTorrent/releases) page!
